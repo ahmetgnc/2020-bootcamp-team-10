@@ -1,6 +1,8 @@
 
 # Eteration Bootcamp 2020 Team 10
 
+# Tripify
+
 ## Team Members
 
 | Role               | Name      |
