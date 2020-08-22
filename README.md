@@ -1,5 +1,5 @@
 
-# 2020 Bootcamp Team 10 - `Six Musketeers`
+# Eteration Bootcamp 2020 Team 10
 
 ## Team Members
 
@@ -8,9 +8,6 @@
 | Backend Developer, DB Architecture and QA(Test Developer)  | A. Yavuz ORUÇ  |
 | Frontend Developer | Derya Taşdöğen |
 | Frontend Developer | Ahmet Genç  |
-| Frontend Developer | Ahmetcan Yazıcı  |
-| Frontend Developer | Ayşe Nur Yılmaz  |
-| Frontend Developer | İsmail Hakseven  |
 
 ## Project
 
